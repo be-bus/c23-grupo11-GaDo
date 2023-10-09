@@ -36,5 +36,5 @@ Doy gracias y prometo que dare todo de mi para poder llevar adelante este sueño
 * [Logo](/desing/logo/GaDo.jfif)
 * [Tipografia Empleada]()
 * Gama de colores usadas
-    * [Paleta 1](/desing/fuente/Paleta1.png)
-    * [Paleta 2](/desing/fuente/Paleta2.png)
+    * [Paleta 1](/desing/logo/Paleta1.png)
+    * [Paleta 2](/desing/logo/Paleta2.png)
