@@ -33,6 +33,8 @@ Doy gracias y prometo que dare todo de mi para poder llevar adelante este sueño
 * [Sodimac](https://www.sodimac.com.ar/sodimac-ar/myaccount/register/personal) , de este sitio me llamo la atención el **formulario de registro** de nuevos usuarios, es sencillo y conbina con el estilo de nuestro sitio. Mi diseño lo hice tomando como guía esta sección del sitio.
 
 ## LOGOS Y TIPOGRAFIAS  
-* [GaDo]()
+* [Logo](/desing/logo/GaDo.jfif)
 * [Tipografia Empleada]()
-* [Gama de colores usadas]()
+* Gama de colores usadas
+    * [Paleta 1](/desing/fuente/Paleta1.png)
+    * [Paleta 2](/desing/fuente/Paleta2.png)
