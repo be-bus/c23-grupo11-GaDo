@@ -21,6 +21,11 @@ Nacido en en la provincia de Buenos Aires, Argentina y actualmente viviendo en l
 Desde un principio siempre me llamo la atención el mundo de la programación y los numeros, motivo por el cual decidi estudiar Ingenieria en Sistemas, pero por motivos personales no pude culminarlos. Al poder acceder a esta oportunidad que brinda la *Fundacion **FORMAR***, siento que puedo en parte responder a esa sensación del *"Que hubiera pasado"*.  
 Doy gracias y prometo que dare todo de mi para poder llevar adelante este sueño y tomar esta oportunidad que se me brinda.
 
+### **WIREFRAMES**  
+* ***Registro de Usuarios***  
+    * [Vista Desktop](/registro/desktop/Registro.png)
+    * [Vista Tablet]()
+    * [Vista Mobile]()
 
 ## PAGINAS DE REFERENCIA  
 * [Kevingston](https://www.kevingston.com/) , eleji esta pagina por lo simple que es a la vista y la forma en la que estan distribuidos los elementos en la pagina, lo que hace de una experiencia de navegacion confortable y amigable. Me gusta el estilo y las formas de los elementos, y como solo se le da lugar a lo lineal y dejando de lado las curvas, dando asi un toque de simpleza y elegancia.
