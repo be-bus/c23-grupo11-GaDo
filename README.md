@@ -33,9 +33,9 @@ La programación no es solo una disciplina para mí, es una pasión que me impul
     * [Vista Mobile]()
 
 * ***Login*** 
-    * ![Vista Desktop](login/desktop/loginDesktop.png)
-    * ![Vista Tablet](login/tablet/loginTablet.png)
-    * ![Vista Mobile](login/mobile/loginMobile.png)
+    * [Vista Desktop](/login/desktop/loginDesktop.png)
+    * [Vista Tablet](/login/tablet/loginTablet.png)
+    * [Vista Mobile](/login/mobile/loginMobile.png)
 
 ## PAGINAS DE REFERENCIA  
 * [Kevingston](https://www.kevingston.com/) , eleji esta pagina por lo simple que es a la vista y la forma en la que estan distribuidos los elementos en la pagina, lo que hace de una experiencia de navegacion confortable y amigable. Me gusta el estilo y las formas de los elementos, y como solo se le da lugar a lo lineal y dejando de lado las curvas, dando asi un toque de simpleza y elegancia.
