@@ -24,8 +24,8 @@ Doy gracias y prometo que dare todo de mi para poder llevar adelante este sueño
 ### **WIREFRAMES**  
 * ***Registro de Usuarios***  
     * [Vista Desktop](/registro/desktop/Registro.png)
-    * [Vista Tablet]()
-    * [Vista Mobile]()
+    * [Vista Tablet](/registro/tablet/iPad%20Pro%2011_%20-%202%20(1).png)
+    * [Vista Mobile](/registro/mobile/Android%20Large%20-%201%20(1).png)
 
 ## PAGINAS DE REFERENCIA  
 * [Kevingston](https://www.kevingston.com/) , eleji esta pagina por lo simple que es a la vista y la forma en la que estan distribuidos los elementos en la pagina, lo que hace de una experiencia de navegacion confortable y amigable. Me gusta el estilo y las formas de los elementos, y como solo se le da lugar a lo lineal y dejando de lado las curvas, dando asi un toque de simpleza y elegancia.
