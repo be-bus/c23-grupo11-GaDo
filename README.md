@@ -22,6 +22,7 @@ Desde un principio siempre me llamo la atención el mundo de la programación y 
 Doy gracias y prometo que dare todo de mi para poder llevar adelante este sueño y tomar esta oportunidad que se me brinda.
 
 ### **WIREFRAMES**  
+___WIREFRAMES___: Realizados en [Figma](https://www.figma.com/file/6krQTkdRT4g8fRSEQ7532B/Pagina-Responsive?type=design&node-id=0%3A1&mode=design&t=mYLnF9MoTCkmBkOz-1)
 * ***Registro de Usuarios***  
     * [Vista Desktop](/registro/desktop/Registro.png)
     * [Vista Tablet](/registro/tablet/iPad%20Pro%2011_%20-%202%20(1).png)
