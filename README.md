@@ -38,6 +38,18 @@ ___WIREFRAMES___: Realizados en [Figma](https://www.figma.com/file/6krQTkdRT4g8f
     * [Vista Tablet](/wireframes/tablet/login.png)
     * [Vista Mobile](/wireframes/mobile/login.png)
 
+* ***Home*** 
+    * [Vista Desktop](/wireframes/desktop/home.png)
+    * [Vista Tablet](/wireframes/tablet/home.png)
+    * [Vista Mobile](/wireframes/mobile/home.png)
+
+* ***Carrito de compras*** 
+    * [Vista Desktop](/wireframes/desktop/carrito.png)
+    * [Vista Tablet](/wireframes/tablet/Carrito.png)
+    * [Vista Mobile](/wireframes/mobile/carrito.png)  
+        * Carrito vacio
+            * [Vista Desktop](/wireframes/desktop/Carrito%20vacio.png)
+            * [Vista Tablet](/wireframes/tablet/Carrito%20vacio.png)
 ## PAGINAS DE REFERENCIA  
 * [Kevingston](https://www.kevingston.com/) , eleji esta pagina por lo simple que es a la vista y la forma en la que estan distribuidos los elementos en la pagina, lo que hace de una experiencia de navegacion confortable y amigable. Me gusta el estilo y las formas de los elementos, y como solo se le da lugar a lo lineal y dejando de lado las curvas, dando asi un toque de simpleza y elegancia.
 
