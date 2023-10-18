@@ -29,14 +29,14 @@ La programación no es solo una disciplina para mí, es una pasión que me impul
 ### **WIREFRAMES**  
 ___WIREFRAMES___: Realizados en [Figma](https://www.figma.com/file/6krQTkdRT4g8fRSEQ7532B/Pagina-Responsive?type=design&node-id=0%3A1&mode=design&t=mYLnF9MoTCkmBkOz-1)
 * ***Registro de Usuarios***  
-    * [Vista Desktop](/registro/desktop/Registro.png)
-    * [Vista Tablet](/registro/tablet/iPad%20Pro%2011_%20-%202%20(1).png)
-    * [Vista Mobile](/registro/mobile/Android%20Large%20-%201%20(1).png)
+    * [Vista Desktop](/wireframes/desktop/registro.png)
+    * [Vista Tablet](/wireframes/tablet/registro.png)
+    * [Vista Mobile](/wireframes/mobile/registro.png)
 
 * ***Login*** 
-    * [Vista Desktop](/login/desktop/loginDesktop.png)
-    * [Vista Tablet](/login/tablet/loginTablet.png)
-    * [Vista Mobile](/login/mobile/loginMobile.png)
+    * [Vista Desktop](/wireframes/desktop/login.png)
+    * [Vista Tablet](/wireframes/tablet/login.png)
+    * [Vista Mobile](/wireframes/mobile/login.png)
 
 ## PAGINAS DE REFERENCIA  
 * [Kevingston](https://www.kevingston.com/) , eleji esta pagina por lo simple que es a la vista y la forma en la que estan distribuidos los elementos en la pagina, lo que hace de una experiencia de navegacion confortable y amigable. Me gusta el estilo y las formas de los elementos, y como solo se le da lugar a lo lineal y dejando de lado las curvas, dando asi un toque de simpleza y elegancia.
